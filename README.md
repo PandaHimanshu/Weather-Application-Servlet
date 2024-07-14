@@ -1,4 +1,4 @@
-    Weather App
+Weather App
     Overview
 This Weather App is a web application that provides real-time weather information for various locations.
 It is built using HTML, CSS, JavaScript, Servlet, and JSP. The app fetches weather data from a weather API and displays it to the user in a clean and responsive interface.
